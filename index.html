@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>
+    UPCOMEING EVENTS GPOA
+  </title>
+  <style>
+    body {
+
+      margin: auto;
+
+      font-family: sans-serif;
+    }
+
+    p {}
+
+    a {
+      outline: none;
+      text-decoration: none;
+      padding: 2px 1px 0;
+    }
+
+    a:link {
+      color: #265301;
+    }
+
+    a:visited {
+      color: #437A16;
+    }
+
+    a:focus {
+      border-bottom: 1px solid;
+      background: #BAE498;
+    }
+
+    a:hover {
+      border-bottom: 1px solid;
+      background: #CDFEAA;
+    }
+
+    a:active {
+      background: #265301;
+      color: #CDFEAA;
+    }
+
+  </style>
+
+</head>
+
+<body style="background-color:#e0ebe8; background-image: http://seanhalpin.io/assets/img/content/home/masthead/land.svg" <tr>
+
+  <table>
+
+    <tr>
+
+
+      <td>  <br /> &nbsp;<img src="http://gpoaofficalwebsiteeventsbbuytick.website2.me/upload/1047866/images/5160978F2438CA75.png" alt="image not found" width="100" ;height="160" />
+<td>
+
+
+
+
+
+      <td>
+        <br /
+        />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+      <a <a="" href="best moments" ;="" style=" font-size: 100%;line-height: 0;letter-spacing: 0.108em;font-family: sans-serif;font-weight: 300;"> PHOTO GALARY</a>
+
+
+
+ &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gpoasite.github.io/event/" ;="" style=" font-size: 100%;line-height: 0;letter-spacing: 0.108em;font-family: sans-serif;font-weight: 300;"> HOME</a>
+    </tr>
+  </table>
+  <br />
+  <hr style="color:white">
+  <center>
+    <br />
+
+  <STORNG>
+    <center>
+
+
+
+
+
+  </STORNG>
+
+
+
+  <body style="background-color:#effcef" <tr>
+        <H1 style="text-align:center; color:#08d9d6"> EVEVNTS OF THE MONTH</H1>
+          <H1 style="text-align:center; color:
+        #ff5f40">JULY </H1>
+
+        <BR />
+        <BR />
+
+          <H2 style="text-align:center; color:#393e46">Ganesh Chaturthi</H2>
+            <HR style="width: 20px; height: 1px;" SHADE>
+              <BR />
+
+            <H3 style="text-align:center; color:GREEN">22 Aug 2020 </H3>
+            <br>
+              <hr style="color:white">
+            <br>
+
+              <H2 style="text-align:center; color:#393e46">Muharram</H2>
+              <HR style="width: 20px; height: 1px;" SHADE>
+                <BR />
+              <H3 style="text-align:center; color:GREEN">29 Aug 2020 </H3>
+            <BR />
+            <BR />
+            <HR />
+
+
+</BODY>
